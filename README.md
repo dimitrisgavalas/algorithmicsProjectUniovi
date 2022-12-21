@@ -2,4 +2,4 @@
 
 ALGORITHMICS | ALGORITMIA
 
-This repository contains the exercises developed for Algorithmics' course at Universidad de Oviedo during January-May 2022
+Repository for the Algorithmics course at the School of Computer Engineering of the University of Oviedo during January-May 2022
